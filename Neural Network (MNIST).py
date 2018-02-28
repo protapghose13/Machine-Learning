@@ -1,3 +1,5 @@
+# Acknowledgement:https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
