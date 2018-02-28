@@ -3,10 +3,13 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 mnist = input_data.read_data_sets("tmp/data/", one_hot=True)
 
+
+# Hidden Layer nodes
 n_nodes_hl1 = 50
 n_nodes_hl2 = 50
 n_nodes_hl3 = 50
 
+#Number of Classes
 n_classes = 10
 batch_size = 100
 
